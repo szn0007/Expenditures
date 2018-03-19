@@ -1,0 +1,2 @@
+# Expenditures
+Daily Expenditures Records
